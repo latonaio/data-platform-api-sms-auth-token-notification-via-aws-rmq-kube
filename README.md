@@ -1,0 +1,1 @@
+# data-platform-api-sms-auth-token-notification-via-aws-rmq-kube
