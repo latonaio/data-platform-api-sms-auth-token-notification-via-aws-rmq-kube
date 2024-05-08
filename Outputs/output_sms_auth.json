@@ -1,0 +1,27 @@
+{
+  "accepter": [
+    "SMSAuthToken"
+  ],
+  "api_processing_error": "",
+  "api_processing_result": true,
+  "api_schema": "DPFMSMSAuthTokenNotificationViaAWSGenerates",
+  "api_status_code": 200,
+  "api_type": "generates",
+  "business_partner": null,
+  "connection_key": "response",
+  "deleted": false,
+  "filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+  "message": {
+    "SMSAuthToken": [
+      {
+        "MobilePhoneNumber": "+8190XXXXXXXX",
+        "AuthenticationCode": 123456
+      }
+    ]
+  },
+  "redis_key": "abcdefg",
+  "result": true,
+  "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+  "service_label": "SMS_AUTHENTICATION_TOKEN_NOTIFICATION_VIA_AWS",
+  "time_stamp": "2024/04/04 17:42:25"
+}
